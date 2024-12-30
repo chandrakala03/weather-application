@@ -1,0 +1,1 @@
+weather application developed with open weather api (a real-time weather data)
