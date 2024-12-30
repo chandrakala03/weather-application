@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   text-align: center;
+   background-color:white;
+}
+.heading{
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    color: orangered;
+}
+.container{
+    margin-top: 7%;
+    align-items: center;
+    text-align: center;
+    margin-left: 40%;
+    }
+.search-bar{
+    align-items: center;
+    width: 17rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    border-radius:18px ;
+    border: 1px solid orangered;
+}
+.inputvalue , .fa {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+a{
+    font-size: large;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    
+}
+.display{
+    display: flex;
+    /*border: 1px solid red;*/
+    margin: 1rem;
+    gap: 6rem;
+    margin-left: 2rem;
+
+}
+.desc{
+    margin-right:9.5rem;
+    font-style: italic;
+}
+img{
+    width:150px;
+    height: 150px;
+}
